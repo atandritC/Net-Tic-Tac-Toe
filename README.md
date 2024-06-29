@@ -6,9 +6,7 @@ This project implements a Tic-Tac-Toe game using TCP/IP client-server communicat
 
 ### Demonstration
 
-![Tic-Tac-Toe]()
-
-No diagram is provided in this implementation.
+![Tic-Tac-Toe](https://github.com/atandritC/Project-Demos/blob/main/Tic-Tac-Toe.gif)
 
 ## Installation and Usage Instructions (for end-users)
 
